@@ -25,7 +25,7 @@
 *  Actively contributing to **Open Source** as a **GSSoC Contributor**
 *  Solved **300+ LeetCode problems** and continuously improving my problem-solving skills
 *  Open to collaborating on **Open Source, Full Stack, and Web Development projects**
-*  Ask me about **JavaScript, React, Next.js, Node.js, Git, GitHub, and Linux**
+*  Ask me about **Linux, JavaScript, React, Next.js, Node.js, Git and GitHub**
 *  Fun fact: I enjoy turning ideas into real-world applications and contributing to the developer community
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -46,7 +46,7 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,cpp" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,c,java" />
 </p>
 
 ### Frontend
